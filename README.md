@@ -39,7 +39,7 @@ Each folder contains subfolders named after the lab or challenge, including:
 ## 📬 Contact
 
 - LinkedIn: (www.linkedin.com/in/danilo-freitas-171b58260)  
-- GitHub: [github.com/your-user](https://github.com/your-user)  
+- GitHub: [github.com/your-user](https://github.com/danilofreitas77)  
 
 ---
 
