@@ -1,4 +1,4 @@
-# 🛡️ Danilo's Cybersecurity Labs Portfolio
+# 🛡️ Cybersecurity Labs Portfolio
 
 This repository consolidates my practical learning in cybersecurity through hands-on labs from multiple platforms, including TryHackMe, Hack The Box, and CTF challenges. It documents my progress from foundational topics to advanced security concepts.
 
@@ -41,7 +41,7 @@ Each folder contains subfolders named after the lab or challenge, including:
 ## 📬 Contact
 
 - LinkedIn: (www.linkedin.com/in/danilo-freitas-171b58260)  
-- GitHub: [github.com/your-user](https://github.com/danilofreitas77)  
+- GitHub: [GITHUB](https://github.com/danilofreitas77)  
 
 ---
 
