@@ -24,6 +24,8 @@ Each folder contains subfolders named after the lab or challenge, including:
 
 ## ✅ Certifications
 
+- Introduction to CiberSecurity - Cisco Networking Academy
+- Python Essentials 1 - Cisco Networking Academy
 
 ---
 
